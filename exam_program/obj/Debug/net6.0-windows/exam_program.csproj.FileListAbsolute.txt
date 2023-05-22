@@ -1,0 +1,161 @@
+C:\Users\hyuk\source\repos\exam_program\exam_program\bin\Debug\net6.0-windows\exam_program.exe
+C:\Users\hyuk\source\repos\exam_program\exam_program\bin\Debug\net6.0-windows\exam_program.deps.json
+C:\Users\hyuk\source\repos\exam_program\exam_program\bin\Debug\net6.0-windows\exam_program.runtimeconfig.json
+C:\Users\hyuk\source\repos\exam_program\exam_program\bin\Debug\net6.0-windows\exam_program.dll
+C:\Users\hyuk\source\repos\exam_program\exam_program\bin\Debug\net6.0-windows\exam_program.pdb
+C:\Users\hyuk\source\repos\exam_program\exam_program\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\hyuk\source\repos\exam_program\exam_program\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\hyuk\source\repos\exam_program\exam_program\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\hyuk\source\repos\exam_program\exam_program\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\hyuk\source\repos\exam_program\exam_program\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\hyuk\source\repos\exam_program\exam_program\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\hyuk\source\repos\exam_program\exam_program\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\hyuk\source\repos\exam_program\exam_program\bin\Debug\net6.0-windows\Zstandard.Net.dll
+C:\Users\hyuk\source\repos\exam_program\exam_program\bin\Debug\net6.0-windows\Renci.SshNet.dll
+C:\Users\hyuk\source\repos\exam_program\exam_program\bin\Debug\net6.0-windows\SshNet.Security.Cryptography.dll
+C:\Users\hyuk\source\repos\exam_program\exam_program\bin\Debug\net6.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\hyuk\source\repos\exam_program\exam_program\obj\Debug\net6.0-windows\exam_program.csproj.AssemblyReference.cache
+C:\Users\hyuk\source\repos\exam_program\exam_program\obj\Debug\net6.0-windows\exam_program.Form1.resources
+C:\Users\hyuk\source\repos\exam_program\exam_program\obj\Debug\net6.0-windows\exam_program.Properties.Resources.resources
+C:\Users\hyuk\source\repos\exam_program\exam_program\obj\Debug\net6.0-windows\exam_program.csproj.GenerateResource.cache
+C:\Users\hyuk\source\repos\exam_program\exam_program\obj\Debug\net6.0-windows\exam_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hyuk\source\repos\exam_program\exam_program\obj\Debug\net6.0-windows\exam_program.AssemblyInfoInputs.cache
+C:\Users\hyuk\source\repos\exam_program\exam_program\obj\Debug\net6.0-windows\exam_program.AssemblyInfo.cs
+C:\Users\hyuk\source\repos\exam_program\exam_program\obj\Debug\net6.0-windows\exam_program.csproj.CoreCompileInputs.cache
+C:\Users\hyuk\source\repos\exam_program\exam_program\obj\Debug\net6.0-windows\exam_program.csproj.CopyComplete
+C:\Users\hyuk\source\repos\exam_program\exam_program\obj\Debug\net6.0-windows\exam_program.dll
+C:\Users\hyuk\source\repos\exam_program\exam_program\obj\Debug\net6.0-windows\refint\exam_program.dll
+C:\Users\hyuk\source\repos\exam_program\exam_program\obj\Debug\net6.0-windows\exam_program.pdb
+C:\Users\hyuk\source\repos\exam_program\exam_program\obj\Debug\net6.0-windows\exam_program.genruntimeconfig.cache
+C:\Users\hyuk\source\repos\exam_program\exam_program\obj\Debug\net6.0-windows\ref\exam_program.dll
+C:\Users\hyuk\source\repos\exam_program\exam_program\obj\Debug\net6.0-windows\exam_program.Form2.resources
+C:\Users\hyuk\source\repos\exam_program\exam_program\obj\Debug\net6.0-windows\exam_program.Form3.resources
+C:\Users\hyuk\source\repos\exam_program\exam_program\obj\Debug\net6.0-windows\exam_program.Form4.resources
+C:\Users\hyuk\source\repos\exam_program\exam_program\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\hyuk\source\repos\exam_program\exam_program\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\obj\Debug\net6.0-windows\exam_program.csproj.AssemblyReference.cache
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\obj\Debug\net6.0-windows\exam_program.Form1.resources
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\obj\Debug\net6.0-windows\exam_program.Form10.resources
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\obj\Debug\net6.0-windows\exam_program.Form2.resources
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\obj\Debug\net6.0-windows\exam_program.Form3.resources
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\obj\Debug\net6.0-windows\exam_program.Form4.resources
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\obj\Debug\net6.0-windows\exam_program.Form5.resources
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\obj\Debug\net6.0-windows\exam_program.Form6.resources
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\obj\Debug\net6.0-windows\exam_program.Form9.resources
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\obj\Debug\net6.0-windows\exam_program.Properties.Resources.resources
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\obj\Debug\net6.0-windows\exam_program.csproj.GenerateResource.cache
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\obj\Debug\net6.0-windows\exam_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\obj\Debug\net6.0-windows\exam_program.AssemblyInfoInputs.cache
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\obj\Debug\net6.0-windows\exam_program.AssemblyInfo.cs
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\obj\Debug\net6.0-windows\exam_program.csproj.CoreCompileInputs.cache
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\obj\Debug\net6.0-windows\exam_program.dll
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\obj\Debug\net6.0-windows\refint\exam_program.dll
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\obj\Debug\net6.0-windows\exam_program.pdb
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\bin\Debug\net6.0-windows\exam_program.exe
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\bin\Debug\net6.0-windows\exam_program.deps.json
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\bin\Debug\net6.0-windows\exam_program.runtimeconfig.json
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\bin\Debug\net6.0-windows\exam_program.dll
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\bin\Debug\net6.0-windows\exam_program.pdb
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\bin\Debug\net6.0-windows\Zstandard.Net.dll
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\bin\Debug\net6.0-windows\Renci.SshNet.dll
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\bin\Debug\net6.0-windows\SshNet.Security.Cryptography.dll
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\bin\Debug\net6.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\obj\Debug\net6.0-windows\exam_program.csproj.CopyComplete
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\obj\Debug\net6.0-windows\exam_program.genruntimeconfig.cache
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\obj\Debug\net6.0-windows\ref\exam_program.dll
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\obj\Debug\net6.0-windows\exam_program.Form11.resources
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\obj\Debug\net6.0-windows\exam_program.Form7.resources
+C:\Users\hyuk\source\repos\exam_program_backup\exam_program\obj\Debug\net6.0-windows\exam_program.Form8.resources
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\bin\Debug\net6.0-windows\exam_program.exe
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\bin\Debug\net6.0-windows\exam_program.deps.json
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\bin\Debug\net6.0-windows\exam_program.runtimeconfig.json
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\bin\Debug\net6.0-windows\exam_program.dll
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\bin\Debug\net6.0-windows\exam_program.pdb
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\bin\Debug\net6.0-windows\Zstandard.Net.dll
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\bin\Debug\net6.0-windows\Renci.SshNet.dll
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\bin\Debug\net6.0-windows\SshNet.Security.Cryptography.dll
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\bin\Debug\net6.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\obj\Debug\net6.0-windows\exam_program.csproj.AssemblyReference.cache
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\obj\Debug\net6.0-windows\exam_program.Form1.resources
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\obj\Debug\net6.0-windows\exam_program.Form10.resources
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\obj\Debug\net6.0-windows\exam_program.Form11.resources
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\obj\Debug\net6.0-windows\exam_program.Form2.resources
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\obj\Debug\net6.0-windows\exam_program.Form3.resources
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\obj\Debug\net6.0-windows\exam_program.Form4.resources
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\obj\Debug\net6.0-windows\exam_program.Form5.resources
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\obj\Debug\net6.0-windows\exam_program.Form6.resources
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\obj\Debug\net6.0-windows\exam_program.Form7.resources
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\obj\Debug\net6.0-windows\exam_program.Form8.resources
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\obj\Debug\net6.0-windows\exam_program.Form9.resources
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\obj\Debug\net6.0-windows\exam_program.Properties.Resources.resources
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\obj\Debug\net6.0-windows\exam_program.csproj.GenerateResource.cache
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\obj\Debug\net6.0-windows\exam_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\obj\Debug\net6.0-windows\exam_program.AssemblyInfoInputs.cache
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\obj\Debug\net6.0-windows\exam_program.AssemblyInfo.cs
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\obj\Debug\net6.0-windows\exam_program.csproj.CoreCompileInputs.cache
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\obj\Debug\net6.0-windows\exam_program.csproj.CopyComplete
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\obj\Debug\net6.0-windows\exam_program.dll
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\obj\Debug\net6.0-windows\refint\exam_program.dll
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\obj\Debug\net6.0-windows\exam_program.pdb
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\obj\Debug\net6.0-windows\exam_program.genruntimeconfig.cache
+C:\Users\dgyun\OneDrive\바탕 화면\exam_program\obj\Debug\net6.0-windows\ref\exam_program.dll
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\bin\Debug\net6.0-windows\exam_program.exe
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\bin\Debug\net6.0-windows\exam_program.deps.json
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\bin\Debug\net6.0-windows\exam_program.runtimeconfig.json
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\bin\Debug\net6.0-windows\exam_program.dll
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\bin\Debug\net6.0-windows\exam_program.pdb
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\bin\Debug\net6.0-windows\Zstandard.Net.dll
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\bin\Debug\net6.0-windows\Renci.SshNet.dll
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\bin\Debug\net6.0-windows\SshNet.Security.Cryptography.dll
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\bin\Debug\net6.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\obj\Debug\net6.0-windows\exam_program.csproj.AssemblyReference.cache
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\obj\Debug\net6.0-windows\exam_program.Form1.resources
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\obj\Debug\net6.0-windows\exam_program.Form10.resources
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\obj\Debug\net6.0-windows\exam_program.Form11.resources
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\obj\Debug\net6.0-windows\exam_program.Form2.resources
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\obj\Debug\net6.0-windows\exam_program.Form3.resources
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\obj\Debug\net6.0-windows\exam_program.Form4.resources
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\obj\Debug\net6.0-windows\exam_program.Form5.resources
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\obj\Debug\net6.0-windows\exam_program.Form6.resources
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\obj\Debug\net6.0-windows\exam_program.Form7.resources
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\obj\Debug\net6.0-windows\exam_program.Form8.resources
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\obj\Debug\net6.0-windows\exam_program.Form9.resources
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\obj\Debug\net6.0-windows\exam_program.Properties.Resources.resources
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\obj\Debug\net6.0-windows\exam_program.csproj.GenerateResource.cache
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\obj\Debug\net6.0-windows\exam_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\obj\Debug\net6.0-windows\exam_program.AssemblyInfoInputs.cache
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\obj\Debug\net6.0-windows\exam_program.AssemblyInfo.cs
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\obj\Debug\net6.0-windows\exam_program.csproj.CoreCompileInputs.cache
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\obj\Debug\net6.0-windows\exam_program.csproj.CopyComplete
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\obj\Debug\net6.0-windows\exam_program.dll
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\obj\Debug\net6.0-windows\refint\exam_program.dll
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\obj\Debug\net6.0-windows\exam_program.pdb
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\obj\Debug\net6.0-windows\exam_program.genruntimeconfig.cache
+C:\Users\dgyun\OneDrive\바탕 화면\c# 프로젝트 시험관리 프로그램(팀)\exam_program\obj\Debug\net6.0-windows\ref\exam_program.dll
